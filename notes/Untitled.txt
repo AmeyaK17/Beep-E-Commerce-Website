@@ -1,0 +1,3 @@
+- For Smaller screens:
+  - Add
+    - .home-page-content > div > .container -> margin = 0
