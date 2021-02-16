@@ -5,7 +5,7 @@
 - max-width content is set to "1170px" for all the required elements.
 - Added hover effects.
 - Added "active" class functionality
-- "Home / Accessories" changes w.r.t \which category is selected
+- "Home / Accessories" changes w.r.t which category is selected
 - Min-Max validation added for the minimum price and maximum price values
 
 ### Features Added but not showing because of a potential bug
