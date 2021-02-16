@@ -11,4 +11,5 @@
 ### Features Added but not showing because of a potential bug
 - Carousel -> Implemented the code in HTML and CSS, but is somehow not working
 - Responsiveness
-P.S. If you find the bug, please me know! 
+
+(P.S. If you find the bug, please me know!)
